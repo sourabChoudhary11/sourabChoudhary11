@@ -6,7 +6,6 @@ Email Me 👉 ✉️ **csourab888@gmail.com** For Collaboration/Project or Anyth
 - 🔭 **I’m currently working on:** Real Estate Project
 - 🌱 **I’m currently learning:**PostgreSQL
 - 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** csourab888@gmail.com
 - ⚡ **Fun fact:** I enjoy while learning new Tech
 
 ## 🌐 Socials:
