@@ -4,7 +4,7 @@
 I build scalable, real-world web applications using MERN stack.
 
 📧 Email: csourab888@gmail.com  
-🔗 LinkedIn: <your-link>
+🔗 LinkedIn: linkedin.com/in/sourab-choudhary-1422bb29a
 
 ---
 
@@ -30,29 +30,19 @@ I build scalable, real-world web applications using MERN stack.
 
 ## 🚀 Featured Projects
 
-### 🔹 Admin Dashboard (Ongoing)
-- Interactive charts (Area / Pie)
-- User analytics & stats
-- Role-based access
-
-🔗 Repo: <link>
-
----
-
-### 🔹 MERN E-commerce App
-- User authentication (JWT)
-- Cart & checkout flow
-- Razorpay payment integration
-- Admin product management
-
-🔗 Repo: <link>
-
----
-
 ### 🔹 Real-time Chat App
 - One-to-one real-time messaging
 - Online/offline user status
 - Socket.IO integration
+
+🔗 Repo: <link>
+
+---
+
+### 🔹 Admin Dashboard (Ongoing)
+- Interactive charts (Area / Pie)
+- User analytics & stats
+- Role-based access
 
 🔗 Repo: <link>
 
