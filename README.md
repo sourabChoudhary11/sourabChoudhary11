@@ -1,14 +1,66 @@
-# 💫 Hi 👋, I'm Sourab Choudhary
-**🚀 Aspiring Full Stack MERN Developer | Internship Ready  **
+# Hi 👋, I'm Sourab Choudhary (Buddy)
 
-Email Me 👉 ✉️ **csourab888@gmail.com** For Collaboration/Project or Anything Else. 😊😊
+🚀 **Full Stack MERN Developer | Internship Ready**  
+I build scalable, real-world web applications using MERN stack.
 
-- 🔭 **I’m currently working on:** Admin Dashboard Project
-- ⚡ **Fun fact:** I enjoy while working on a new project
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sourab-choudhary-1422bb29a)
+📧 Email: csourab888@gmail.com  
+🔗 LinkedIn: <your-link>
 
-# 💻 Tech Stack:
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+---
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 🛠 Tech Stack
+**Frontend**
+- React, TypeScript
+- Tailwind CSS, Redux
+- Vite
+
+**Backend**
+- Node.js, Express.js
+- MongoDB
+- JWT Authentication
+- Socket.IO
+
+**Tools & Platforms**
+- Git, GitHub
+- Postman
+- Vercel, Render
+- NPM
+
+---
+
+## 🚀 Featured Projects
+
+### 🔹 Admin Dashboard (Ongoing)
+- Interactive charts (Area / Pie)
+- User analytics & stats
+- Role-based access
+
+🔗 Repo: <link>
+
+---
+
+### 🔹 MERN E-commerce App
+- User authentication (JWT)
+- Cart & checkout flow
+- Razorpay payment integration
+- Admin product management
+
+🔗 Repo: <link>
+
+---
+
+### 🔹 Real-time Chat App
+- One-to-one real-time messaging
+- Online/offline user status
+- Socket.IO integration
+
+🔗 Repo: <link>
+
+---
+
+## 🎯 Currently Improving
+- Advanced Socket.IO patterns
+- Clean architecture in MERN
+- Performance optimization in React
+
+⚡ Fun fact: I enjoy building projects that solve real problems.
