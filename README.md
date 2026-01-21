@@ -1,4 +1,4 @@
-# Hi 👋, I'm Sourab Choudhary (Buddy)
+# Hi 👋, I'm Sourab Choudhary
 
 🚀 **Full Stack MERN Developer | Internship Ready**  
 I build scalable, real-world web applications using MERN stack.
@@ -32,10 +32,12 @@ I build scalable, real-world web applications using MERN stack.
 
 ### 🔹 Real-time Chat App
 - One-to-one real-time messaging
+- Group chat
 - Online/offline user status
 - Socket.IO integration
+- Admin Panel
 
-🔗 Repo: https://chatx-blond.vercel.app and https://chatx-blond.vercel.app/admin ---> ADMINHIHU
+🔗 Link: https://chatx-blond.vercel.app and https://chatx-blond.vercel.app/admin ---> ADMINHIHU
 
 ### 🔹 Admin Dashboard (Ongoing)
 - Interactive charts (Area / Pie)
@@ -43,10 +45,5 @@ I build scalable, real-world web applications using MERN stack.
 - Role-based access
 
 ---
-
-## 🎯 Currently Improving
-- Advanced Socket.IO patterns
-- Clean architecture in MERN
-- Performance optimization in React
 
 ⚡ Fun fact: I enjoy building projects that solve real problems.
