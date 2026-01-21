@@ -35,16 +35,12 @@ I build scalable, real-world web applications using MERN stack.
 - Online/offline user status
 - Socket.IO integration
 
-🔗 Repo: <link>
-
----
+🔗 Repo: https://chatx-blond.vercel.app and https://chatx-blond.vercel.app/admin ---> ADMINHIHU
 
 ### 🔹 Admin Dashboard (Ongoing)
 - Interactive charts (Area / Pie)
 - User analytics & stats
 - Role-based access
-
-🔗 Repo: <link>
 
 ---
 
