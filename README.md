@@ -4,7 +4,7 @@
 I build scalable, real-world web applications using MERN stack.
 
 📧 Email: csourab888@gmail.com  
-🔗 LinkedIn: linkedin.com/in/sourab-choudhary-1422bb29a
+🔗 LinkedIn: www.linkedin.com/in/sourab-choudhary-1422bb29a
 
 ---
 
