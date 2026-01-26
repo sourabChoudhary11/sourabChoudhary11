@@ -44,6 +44,8 @@ I build scalable, real-world web applications using MERN stack.
 - User analytics & stats
 - Role-based access
 
+🔗 Link: https://client-admin-panel-three.vercel.app
+
 ---
 
 ⚡ Fun fact: I enjoy building projects that solve real problems.
